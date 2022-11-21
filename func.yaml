@@ -30,3 +30,6 @@ healthEndpoints:
 created: 2022-11-21T10:24:51.880343104+02:00
 invocation:
   format: http
+git:
+  url: https://github.com/kelalab/rosa_test_function
+  revision: main
